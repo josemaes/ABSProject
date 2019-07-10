@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+environment/buildEnvironmentInclude/org.eclipse.linuxtools.cdt.autotools.core.toolChain.2014800052/CPATH/delimiter=;
+environment/buildEnvironmentInclude/org.eclipse.linuxtools.cdt.autotools.core.toolChain.2014800052/CPATH/operation=remove
+environment/buildEnvironmentInclude/org.eclipse.linuxtools.cdt.autotools.core.toolChain.2014800052/CPLUS_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/org.eclipse.linuxtools.cdt.autotools.core.toolChain.2014800052/CPLUS_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/org.eclipse.linuxtools.cdt.autotools.core.toolChain.2014800052/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/org.eclipse.linuxtools.cdt.autotools.core.toolChain.2014800052/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/org.eclipse.linuxtools.cdt.autotools.core.toolChain.2014800052/append=true
+environment/buildEnvironmentInclude/org.eclipse.linuxtools.cdt.autotools.core.toolChain.2014800052/appendContributed=true
+environment/buildEnvironmentLibrary/org.eclipse.linuxtools.cdt.autotools.core.toolChain.2014800052/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/org.eclipse.linuxtools.cdt.autotools.core.toolChain.2014800052/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/org.eclipse.linuxtools.cdt.autotools.core.toolChain.2014800052/append=true
+environment/buildEnvironmentLibrary/org.eclipse.linuxtools.cdt.autotools.core.toolChain.2014800052/appendContributed=true
